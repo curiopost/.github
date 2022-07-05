@@ -4,7 +4,7 @@
 
 ### Where can I visit it?
 
-- We are still not ready for public use we are underdevelopement.
+- We are still not ready for public use we are underdevelopement, but this will be our domain: https://curiopost.live .
 
 ### How can you contact us?
 
