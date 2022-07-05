@@ -8,4 +8,6 @@
 
 ### How can you contact us?
 
-- We'll implement ways to contact, for now just open an issue in this repository.
+- [Twitter](https://twitter.com/curiopost)
+
+- [Email](mailto:curiopost.live@outlook.com)
