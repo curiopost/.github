@@ -6,6 +6,6 @@
 
 - We are still not ready for public use we are underdevelopement.
 
-### How can I contact you?
+### How can you contact us?
 
 - We'll implement ways to contact, for now just open an issue in this repository.
