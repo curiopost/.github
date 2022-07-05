@@ -1,6 +1,6 @@
 ## What are we?
 
-- We are a social platform where you can, post, ask questions, reply, find answers and more!
+- We are a social platform where you can, post, ask questions, reply, find answers and more! Currently underdevelopment, eta for public release in a few months.
 
 ### Where can I visit it?
 
