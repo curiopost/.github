@@ -11,3 +11,5 @@
 - [Twitter](https://twitter.com/curiopost)
 
 - [Email](mailto:curiopost.live@outlook.com)
+
+- [Discord](https://discord.gg/NzBQm9MfkE)
