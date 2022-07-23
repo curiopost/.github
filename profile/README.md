@@ -1,6 +1,6 @@
 # What are we?
 
-We are a social platform where you can, post, ask questions, reply, find answers and more! Currently underdevelopment, eta for public release in 1-2 months.
+We are a social platform where you can, post, ask questions, reply, find answers and more! Currently underdevelopment, eta for public release in 1 - 2 months.
 
 # Where can I visit it?
 
