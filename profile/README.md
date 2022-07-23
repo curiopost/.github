@@ -1,4 +1,6 @@
-# What are we?
+# Curiopost
+
+ ![image](https://user-images.githubusercontent.com/92243459/180595702-adb04103-8c09-4b1e-8a31-0f164b97ad51.png)
 
 We are a social platform where you can, post, ask questions, reply, find answers and more! Currently underdevelopment, eta for public release in 1 - 2 months.
 
@@ -13,3 +15,4 @@ We are a social platform where you can, post, ask questions, reply, find answers
  [Email](mailto:curiopost.live@outlook.com)
 
  [Discord](https://discord.gg/NzBQm9MfkE)
+ 
