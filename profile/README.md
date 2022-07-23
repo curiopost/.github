@@ -10,11 +10,8 @@ We are a social platform where you can, post, ask questions, reply, find answers
 
 # How can you contact us?
 
- [Twitter](https://twitter.com/curiopost)
-
- [Email](mailto:curiopost.live@outlook.com)
-
- [Discord](https://discord.gg/NzBQm9MfkE)
- 
- [YouTube](https://www.youtube.com/channel/UCsA-SIwx157a3WqAC0wAOVA)
+- [Twitter](https://twitter.com/curiopost)
+- [Email](mailto:curiopost.live@outlook.com)
+- [Discord](https://discord.gg/NzBQm9MfkE)
+- [YouTube](https://www.youtube.com/channel/UCsA-SIwx157a3WqAC0wAOVA)
  
