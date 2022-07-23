@@ -16,3 +16,5 @@ We are a social platform where you can, post, ask questions, reply, find answers
 
  [Discord](https://discord.gg/NzBQm9MfkE)
  
+ [YouTube](https://www.youtube.com/channel/UCsA-SIwx157a3WqAC0wAOVA)
+ 
