@@ -11,7 +11,7 @@ Checkout our website at: https://curiopost.live .
 # How can you contact us?
 
 - [Twitter](https://twitter.com/curiopost)
-- [Email](mailto:curiopost.live@outlook.com)
+- [Email](mailto:mail@curiopost.live)
 - [Discord](https://discord.gg/NzBQm9MfkE)
 - [YouTube](https://www.youtube.com/channel/UCsA-SIwx157a3WqAC0wAOVA)
  
